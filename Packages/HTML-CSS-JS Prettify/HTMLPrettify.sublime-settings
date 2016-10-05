@@ -3,9 +3,9 @@
   // https://github.com/victorporof/Sublime-HTMLPrettify#oh-noez-command-not-found
   // http://nodejs.org/#download
   "node_path": {
-    "windows": "D:/node/node.exe",
-    "linux": "/usr/bin/nodejs",
-    "osx": "/usr/local/bin/node"
+    "windows": "D:/node/4.4.5/node.exe",
+    "linux": "D:/node/4.4.5/node.exe",
+    "osx": "D:/node/4.4.5/node.exe"
   },
 
   // Automatically format when a file is saved.
